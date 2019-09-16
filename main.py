@@ -1,9 +1,10 @@
 #fds
 
 def main(msg):
-#Another comment
-#Different comment
-#Print message
+    #No longer need comments
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("Hello People")
